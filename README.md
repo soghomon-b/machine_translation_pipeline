@@ -121,6 +121,3 @@ pipeline.train()
 ## Contact
 For any questions or issues, please contact [soghmon5@gmail.com].
 
----
-
-This README file provides a comprehensive guide for using the Transformer model training pipeline, explaining each component and its purpose.
